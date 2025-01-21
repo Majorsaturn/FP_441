@@ -21,15 +21,16 @@ import itertools
 def best_hand(hand):
     "From a 7-card hand, return the best 5 card hand."
     # Your code here
-    max_hand = []
+    # Used chatGPT to see how it would use my code in one line , I now have a better understanding of how lambda can be used because of this
+    # I figured you wouldn't want code from chatGPT so I left it commented and my written code does the work
+    #!!!GPT CODE!!! max_hand = max(list(itertools.permutations(hand, 5)), key=lambda x: tuple(hand_rank(x)))
     hand_perms = list(itertools.permutations(hand, 5))
     tup_Hrank = tuple(hand_rank(hand_perms[0]))
+    max_hand = hand_perms[0]
     for x in hand_perms: 
-        y = tuple(hand_rank(x))
-        if tup_Hrank < y:
-            tup_Hrank = y
+        if tup_Hrank < tuple(hand_rank(x)):
+            tup_Hrank = tuple(hand_rank(x))
             max_hand = x
-        
     return sorted(max_hand)
     
 # ------------------
