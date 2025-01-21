@@ -21,7 +21,16 @@ import itertools
 def best_hand(hand):
     "From a 7-card hand, return the best 5 card hand."
     # Your code here
-    pass
+    max_hand = []
+    hand_perms = list(itertools.permutations(hand, 5))
+    tup_Hrank = tuple(hand_rank(hand_perms[0]))
+    for x in hand_perms: 
+        y = tuple(hand_rank(x))
+        if tup_Hrank < y:
+            tup_Hrank = y
+            max_hand = x
+        
+    return sorted(max_hand)
     
 # ------------------
 # Provided Functions
