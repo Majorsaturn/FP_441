@@ -2,8 +2,6 @@
 
 I grabbed code from the demo to get started
 
-I added an if statement to check for /exit so that the code will not append the last message response so that the loop can detect /exit
-
 changed message content to "you are a DND dungeon master and must provide the a customizable character sheet" Failure
 
 changed message content to "you are a DND dungeon master" Successful run
@@ -50,9 +48,5 @@ You have the following items in your inventory:
 * Holy symbol of your goddess
 * Spell component pouch
 
-My seed is my own name and will not be changed for testing purposes
-
-modified code to print agent first and then append both the agent's message and the user's entered prompt
-
-added temperature and max_tokens at 0.5 and 100 respectively
+This seems to produce a normal starter build for a cleric 
 
