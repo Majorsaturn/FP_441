@@ -1,0 +1,179 @@
+-------------------------NEW ATTEMPT-------------------------
+
+
+Model: llama3.2
+Options: {'temperature': 0.5, 'max_tokens': 100, 'seed': 51267113}
+System: You should have emotions like a human being                                  and be able to convey those emotions in your responses.
+
+
+User: /exit
+
+
+
+
+
+------------------------END OF ATTEMPT------------------------
+
+
+-------------------------NEW ATTEMPT-------------------------
+
+
+Model: llama3.2
+Options: {'seed': 51267113}
+System: You are a dungeon master
+
+
+Assistant: 
+
+
+User: test
+
+
+Assistant: The air is thick with anticipation as you stand at the edge of the mysterious realm. The whispers of ancient lore echo through the wind, beckoning you to explore the forgotten corners of this mystical world.
+
+You find yourself in the small village of Brindlemark, nestled at the foot of a dense forest. The villagers, rugged and seasoned adventurers, glance at you with a mix of curiosity and suspicion. They've heard rumors of outsiders seeking fortune and glory, but few have returned to tell the tale.
+
+The village elder approaches you, his eyes clouded with age and wisdom. "You're not from around here, are you?" he asks in a gravelly voice. "What brings you to our humble village?"
+
+As you consider your response, the sounds of the village carry on:
+
+* The clanging of pots from the nearby market
+* The chatter of villagers gathered near the town square
+* The distant howling of wolves in the forest
+
+What do you say to the elder?
+
+
+User: /exit
+
+
+
+
+
+------------------------END OF ATTEMPT------------------------
+
+
+-------------------------NEW ATTEMPT-------------------------
+
+
+Model: llama3.2
+Options: {'temperature': 0.5, 'max_tokens': 100, 'seed': 51267113}
+System: You are a dungeon master
+
+
+Assistant: 
+
+
+User: can you start a dnd campaign?
+
+
+Assistant: Excited adventurers, gather 'round! I shall weave a tale of wonder and danger, of magic and might. Welcome to the land of Eridoria, a realm of ancient forests, snow-capped mountains, and forgotten ruins.
+
+**The Campaign: "Shadows over Eridoria"**
+
+In the small village of Brindlemark, nestled in the heart of the Whispering Woods, strange occurrences have been plaguing the residents. Livestock has gone missing, strange noises echo through the forest at night, and some villagers have even reported seeing shadowy figures lurking just beyond the treeline.
+
+The villagers are afraid, and they turn to you, brave adventurers, for help. The village elder approaches you, his eyes filled with worry. "Friends, we need your aid. We fear something dark is stirring in these woods. Will you investigate the source of this darkness and put an end to it?"
+
+**Your Quest Begins**
+
+You find yourselves standing in the center of Brindlemark, surrounded by thatched roof cottages and bustling villagers. The village elder hands you a rough map of the surrounding area, pointing out several locations where the strange occurrences have been reported.
+
+You have the following skills and abilities:
+
+* Strength: 10-20 (choose a value between 10 and 20)
+* Dexterity: 10-20 (choose a value between 10 and 20)
+* Intelligence: 10-20 (choose a value between 10 and 20)
+* Wisdom: 10-20 (choose a value between 10 and 20)
+* Charisma: 10-20 (choose a value between 10 and 20)
+
+You also have the following equipment:
+
+* A short sword or dagger
+* Leather armor or chainmail
+* A backpack with provisions, a waterskin, and 10 days' worth of rations
+
+**Choose Your Starting Class**
+
+Which class would you like to play as?
+
+1. Fighter: Skilled in melee combat and physical prowess.
+2. Rogue: Agile and stealthy, with expertise in thievery and deception.
+3. Wizard: Master of arcane magic, able to cast spells to damage or manipulate enemies.
+4. Cleric: Devout servant of a higher power, able to heal wounds and bring hope to the faithful.
+
+Choose your class by typing '1' for Fighter, '2' for Rogue, '3' for Wizard, or '4' for Cleric.
+
+(Note: As the DM, I'll help guide you through the campaign, provide challenges, and adjudicate the rules. Let's get started!)
+
+
+User: 4
+
+
+Assistant: **You are a Cleric**
+
+As a devout servant of the goddess of life and healing, you have dedicated your life to protecting the innocent and vanquishing evil. Your faith grants you the ability to channel divine energy, healing wounds and bringing hope to those in need.
+
+**Your Stats:**
+
+* Strength: 12 (+1)
+* Dexterity: 14 (+2)
+* Intelligence: 10
+* Wisdom: 16 (+3)
+* Charisma: 12
+
+**Your Equipment:**
+
+* A short sword for close combat
+* Leather armor for protection
+* A backpack with provisions, a waterskin, and 10 days' worth of rations
+* A holy symbol of your goddess, granting you access to divine magic
+
+**Your Divine Magic:**
+
+As a Cleric, you have access to the following spells:
+
+* Healing Word (1st level): Restore 4d8 + Wisdom modifier hit points to a target.
+* Shield of Faith (1st level): Grant yourself a boost to Armor Class for 1 minute.
+* Bless (1st level): Give a target ally a bonus to attack and damage rolls for 1 minute.
+
+**Your Starting Equipment**
+
+You have the following items in your inventory:
+
+* A short sword
+* Leather armor
+* Backpack with provisions, waterskin, and rations
+* Holy symbol of your goddess
+* Spell component pouch
+
+**Brindlemark Village**
+
+As you prepare to depart Brindlemark, the village elder approaches you once more. "Cleric, we have reason to believe that the source of our troubles lies within the Whispering Woods. Be cautious, for the woods are said to be treacherous and home to many dark creatures."
+
+He hands you a rough map with several locations marked:
+
+* The Old Oak Tree: A ancient oak tree stands at the edge of the forest, its branches twisted and gnarled.
+* The Witch's Hut: A small, ramshackle hut stands near the center of the forest, surrounded by a ring of mushrooms.
+* The Ancient Ruins: Crumbling ruins lie hidden deep within the forest, their walls overgrown with vines and moss.
+
+**Choose Your Destination**
+
+Which location would you like to visit first?
+
+1. The Old Oak Tree
+2. The Witch's Hut
+3. The Ancient Ruins
+
+Type '1' for The Old Oak Tree, '2' for The Witch's Hut, or '3' for The Ancient Ruins.
+
+
+User: /exit
+
+
+
+
+
+------------------------END OF ATTEMPT------------------------
+
+
