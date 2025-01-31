@@ -1,16 +1,19 @@
 from pathlib import Path
 import sys
 sys.path.append(str(Path(__file__).parents[1]))
+import ollama
 
 from ollama import chat
+ollama.pull("llama3.2")
 from util.llm_utils import pretty_stringify_chat, ollama_seed as seed
 
 # Add you code below
 sign_your_name = 'Nicholas Novak'
 model = 'llama3.2'
-options = {'temperature': 0.5, 'max_tokens': 100}
+options = {'temperature': 0.7, 'max_tokens': 100} #
 messages = [
-  {'role': 'system', 'content': 'You are a dungeon master'},
+  {'role': 'system', 'content': 'you are a dnd dungeon master and must require the user to create their character before adventuring, ensure combat encounters make sense within a situation\'s context and make sure the user is presented with an in depth character creation text line'
+                                'make sure that you set a point limit for the initial starter stats'},
 ]
 
 
@@ -29,7 +32,7 @@ while True:
     break
 
 # Save chat
-with open(Path('lab03/attempts.txt'), 'a') as f:
+with open(Path('attempts.txt'), 'a') as f:
   file_string  = ''
   file_string +=       '-------------------------NEW ATTEMPT-------------------------\n\n\n'
   file_string += f'Model: {model}\n'
