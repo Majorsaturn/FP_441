@@ -12,7 +12,7 @@ File 'demo.py' shows the use of templates to create different types of recruitab
 1. Sign your name in `lab04.py` to make your tests reproducible.
 4. Run the tests using **pytest** framework in VSCode to ensure that it passes most of the tests in `lab04/tests/test_trader.py`
 5. Show the status of some tests in VSCode to the instructor during the lab.
-6. Upload a screenshot of status of tests in VSCode along with the commit hash in the textbox for for URL on Canvas.
+6. Upload a screenshot of status of tests in VSCode along with the commit hash in the textbox for URL on Canvas.
 
 
 ## Lab04 Grading Rubric
